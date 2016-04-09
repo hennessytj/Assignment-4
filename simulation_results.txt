@@ -1,0 +1,12 @@
+ 609        Simulation Complete for Alternative A
+      Average Queue Time for Server 1 =     130.4
+      Average Queue Time for Server 2 =     3.0 
+      Average Time in System          =     167.5
+
+ 951        Simulation Complete for Alternative B
+      Average Queue Time for Server 1 =     319.8
+      Average Time in System          =     350.5
+
+1055        Simulation Complete for Alternative C
+      Average Queue Time for Server 1 =     352.2
+      Average Time in System          =     386.2

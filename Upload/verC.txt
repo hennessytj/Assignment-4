@@ -1,0 +1,190 @@
+Time Widget Event
+   0     1  Arrived
+   0     1  Enter Queue 1
+   0     1  Leave Queue 1, waited 0
+   0     1  Begin Processing Server 1
+  13     2  Arrived
+  13     2  Enter Queue 1
+  28     1  Complete Processing Server 1
+  28     2  Leave Queue 1, waited 15
+  28     2  Begin Processing Server 1
+  28     1  Exit system, in system 28
+  29     3  Arrived
+  29     3  Enter Queue 1
+  48     4  Arrived
+  48     4  Enter Queue 1
+  53     5  Arrived
+  53     5  Enter Queue 1
+  60     6  Arrived
+  60     6  Enter Queue 1
+  74     2  Complete Processing Server 1
+  74     3  Leave Queue 1, waited 45
+  74     3  Begin Processing Server 1
+  74     2  Exit system, in system 61
+  74     7  Arrived
+  74     7  Enter Queue 1
+  83     8  Arrived
+  83     8  Enter Queue 1
+  89     9  Arrived
+  89     9  Enter Queue 1
+  99     3  Complete Processing Server 1
+  99     4  Leave Queue 1, waited 51
+  99     4  Begin Processing Server 1
+  99     3  Exit system, in system 70
+ 101    10  Arrived
+ 101    10  Enter Queue 1
+ 109    11  Arrived
+ 109    11  Enter Queue 1
+ 117    12  Arrived
+ 117    12  Enter Queue 1
+ 121     4  Complete Processing Server 1
+ 121     5  Leave Queue 1, waited 68
+ 121     5  Begin Processing Server 1
+ 121     4  Exit system, in system 73
+ 121    13  Arrived
+ 121    13  Enter Queue 1
+ 125    14  Arrived
+ 125    14  Enter Queue 1
+ 143    15  Arrived
+ 143    15  Enter Queue 1
+ 144     5  Complete Processing Server 1
+ 144     6  Leave Queue 1, waited 84
+ 144     6  Begin Processing Server 1
+ 144     5  Exit system, in system 91
+ 155    16  Arrived
+ 155    16  Enter Queue 1
+ 159    17  Arrived
+ 159    17  Enter Queue 1
+ 170    18  Arrived
+ 170    18  Enter Queue 1
+ 188    19  Arrived
+ 188    19  Enter Queue 1
+ 193     6  Complete Processing Server 1
+ 193     7  Leave Queue 1, waited 119
+ 193     7  Begin Processing Server 1
+ 193     6  Exit system, in system 133
+ 196    20  Arrived
+ 196    20  Enter Queue 1
+ 197    21  Arrived
+ 197    21  Enter Queue 1
+ 211    22  Arrived
+ 211    22  Enter Queue 1
+ 224    23  Arrived
+ 224    23  Enter Queue 1
+ 231    24  Arrived
+ 231    24  Enter Queue 1
+ 236     7  Complete Processing Server 1
+ 236     8  Leave Queue 1, waited 153
+ 236     8  Begin Processing Server 1
+ 236     7  Exit system, in system 162
+ 243    25  Arrived
+ 243    25  Enter Queue 1
+ 253    27  Arrived
+ 253    27  Enter Queue 1
+ 253    26  Arrived
+ 253    26  Enter Queue 1
+ 259     8  Complete Processing Server 1
+ 259     9  Leave Queue 1, waited 170
+ 259     9  Begin Processing Server 1
+ 259     8  Exit system, in system 176
+ 268    28  Arrived
+ 268    28  Enter Queue 1
+ 272    29  Arrived
+ 272    29  Enter Queue 1
+ 282    30  Arrived
+ 282    30  Enter Queue 1
+ 295     9  Complete Processing Server 1
+ 295    10  Leave Queue 1, waited 194
+ 295    10  Begin Processing Server 1
+ 295     9  Exit system, in system 206
+ 298    31  Arrived
+ 298    31  Enter Queue 1
+ 341    10  Complete Processing Server 1
+ 341    11  Leave Queue 1, waited 232
+ 341    11  Begin Processing Server 1
+ 341    10  Exit system, in system 240
+ 385    11  Complete Processing Server 1
+ 385    12  Leave Queue 1, waited 268
+ 385    12  Begin Processing Server 1
+ 385    11  Exit system, in system 276
+ 408    12  Complete Processing Server 1
+ 408    13  Leave Queue 1, waited 287
+ 408    13  Begin Processing Server 1
+ 408    12  Exit system, in system 291
+ 455    13  Complete Processing Server 1
+ 455    14  Leave Queue 1, waited 330
+ 455    14  Begin Processing Server 1
+ 455    13  Exit system, in system 334
+ 480    14  Complete Processing Server 1
+ 480    15  Leave Queue 1, waited 337
+ 480    15  Begin Processing Server 1
+ 480    14  Exit system, in system 355
+ 511    15  Complete Processing Server 1
+ 511    16  Leave Queue 1, waited 356
+ 511    16  Begin Processing Server 1
+ 511    15  Exit system, in system 368
+ 542    16  Complete Processing Server 1
+ 542    17  Leave Queue 1, waited 383
+ 542    17  Begin Processing Server 1
+ 542    16  Exit system, in system 387
+ 572    17  Complete Processing Server 1
+ 572    18  Leave Queue 1, waited 402
+ 572    18  Begin Processing Server 1
+ 572    17  Exit system, in system 413
+ 612    18  Complete Processing Server 1
+ 612    19  Leave Queue 1, waited 424
+ 612    19  Begin Processing Server 1
+ 612    18  Exit system, in system 442
+ 640    19  Complete Processing Server 1
+ 640    20  Leave Queue 1, waited 444
+ 640    20  Begin Processing Server 1
+ 640    19  Exit system, in system 452
+ 669    20  Complete Processing Server 1
+ 669    21  Leave Queue 1, waited 472
+ 669    21  Begin Processing Server 1
+ 669    20  Exit system, in system 473
+ 699    21  Complete Processing Server 1
+ 699    22  Leave Queue 1, waited 488
+ 699    22  Begin Processing Server 1
+ 699    21  Exit system, in system 502
+ 730    22  Complete Processing Server 1
+ 730    23  Leave Queue 1, waited 506
+ 730    23  Begin Processing Server 1
+ 730    22  Exit system, in system 519
+ 769    23  Complete Processing Server 1
+ 769    24  Leave Queue 1, waited 538
+ 769    24  Begin Processing Server 1
+ 769    23  Exit system, in system 545
+ 810    24  Complete Processing Server 1
+ 810    25  Leave Queue 1, waited 567
+ 810    25  Begin Processing Server 1
+ 810    24  Exit system, in system 579
+ 847    25  Complete Processing Server 1
+ 847    27  Leave Queue 1, waited 594
+ 847    27  Begin Processing Server 1
+ 847    25  Exit system, in system 604
+ 897    27  Complete Processing Server 1
+ 897    26  Leave Queue 1, waited 644
+ 897    26  Begin Processing Server 1
+ 897    27  Exit system, in system 644
+ 924    26  Complete Processing Server 1
+ 924    28  Leave Queue 1, waited 656
+ 924    28  Begin Processing Server 1
+ 924    26  Exit system, in system 671
+ 951    28  Complete Processing Server 1
+ 951    29  Leave Queue 1, waited 679
+ 951    29  Begin Processing Server 1
+ 951    28  Exit system, in system 683
+ 972    29  Complete Processing Server 1
+ 972    30  Leave Queue 1, waited 690
+ 972    30  Begin Processing Server 1
+ 972    29  Exit system, in system 700
+1019    30  Complete Processing Server 1
+1019    31  Leave Queue 1, waited 721
+1019    31  Begin Processing Server 1
+1019    30  Exit system, in system 737
+1055    31  Complete Processing Server 1
+1055    31  Exit system, in system 757
+1055        Simulation Complete for Alternative C
+      Average Queue Time for Server 1 =     352.2
+      Average Time in System          =     386.2
